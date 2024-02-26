@@ -1,47 +1,46 @@
-<img src="https://consumerchoicecenter.org/wp-content/uploads/2022/06/1-CCC-LOGO-BEST-TRANSPARENT.png" 
-	 style="object-fit:scale-down;
-            width:400px;
-            height:200px;
-            border: solid 1px #CCC"/>    
-	    
-<b>INTRODUCTION</b>
+---
+Model Policy: Smart Cryptocurrency Rules Act
+---
+<b>Summary:</b>
 
-The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life. 
+As federal rules have not yet been created to cover cryptocurrencies and digital assets such as Bitcoin and Ethereum, and considering that states can claim some authority over digital assets or registered companies that deal in digital assets, this establishes preliminary definitions and rules to promote entrepreneurship and provide legal certainty to benefit residents and investors who use cryptocurrency. 
 
-We are a consumer advocacy group that champions smart policies that are fit for growth, promotes lifestyle choice, and embraces tech innovation for tens of thousands of our members and society-at-large, using research and educational outreach to policymakers and the broader public. 
+<b>Text</b>
 
-<b>SMART CRYPTO RULES</b>
+1. Definitions: For the purposes of this chapter, the words defined in this section have the meaning given.
 
-Since the arrival of Bitcoin in 2008, the world’s first decentralized cryptographical digital currency, the crypto domain has been catapulted from sets of obscure programming passion projects to a highly dynamic sector worth $1 trillion. Whether it is mining, exchanges, decentralized finance, blockchains, or rapid payments, there is no doubt that crypto represents a new paradigm of agency, action, and opportunity for entrepreneurs and consumers alike. The benefits to broader crypto adoption are numerous and have been outlined elsewhere.
+    a. “Digital assets” refers to cryptocurrencies, as well as natively electronic assets, which may include stablecoins, non-fungible tokens (NFTs), and other digital-only assets that confer economic, proprietary, or access rights or powers.
 
-However, with such incredible innovation in a short period of time has come investor speculation, attempts at fraud, wild price swings, and blocking of crypto purchases by financial institutions. In response, regulators, recognizing the crypto paradigm shift, have begun actively drafting legislation and filing lawsuits against crypto projects to control and severely limit their activities and products.
+    b. “Cryptocurrency,” or “virtual currency” refers to a digital asset used primarily as a medium of exchange, unit of account, store of value, or any combination thereof, which records transactions and manages the issuance of new units with cryptographically secured distributed ledger technology. This process uses various digital consensus protocols to prevent counterfeiting, double-spends, and fraudulent transactions.
 
-As a consumer advocacy group that champions innovative technology and smart policies, the <b>Consumer Choice Center</b> recognizes the importance of crypto regulation for keeping bad actors in check and providing a sound institutional framework. We also recognize that the nascent crypto finance space is ever-changing and rapidly evolving, and that overzealous regulation could cripple future potential.
+    c. “Digital Property” is a natively electronic entity over which a person or legal entity has sole possession and can use to the exclusion of others.
 
-We offer the <a href="https://consumerchoicecenter.org/principles-for-smart-crypto-regulation/">following bedrock principles</a> on smart crypto regulation for lawmakers, hoping to promote sound policies that will encourage innovation, increase economic inclusion across all income groups, all the while protecting consumers from harm.
+    d. “Reciprocity” is the mutual exchange of privileges between states and regulatory agencies.
 
-<b>PURPOSE</b>
+    e. “Public utility” is an entity providing services to the general public that has been granted certain monopoly rights on the provision of electricity or energy in a state, county, or municipal jurisdiction.
 
-The purpose of this GitHub page is to provide state and local legislators with a template of consumer-friendly policies on Bitcoin, cryptocurrencies, and decentralized finance.
+    f. “Mining” refers to the process of using computer hash power to solve complex mathematical and computational problems, which earns cryptocurrencies as a reward in a proof-of-work system.
 
-As model policies, these serve the purpose of providing general guidelines or goals to achieve in state legislation, and will therefore require various amendments, customizations, and accomodations with existing laws and regulations.
+    g. “Pre-emption” is a doctrine that holds that certain regulatory matters preempt or take precedence over local laws. As such, any local jurisdiction (county or municipal) may not pass a law inconsistent with the state law.
 
-State lawmakers and their staff are encouraged to take parts, or the whole, of these model policies to help usher in consumer-friendly policies on cryptocurrencies and decentralized finance in their jurisdiction.
+    h. “Tax” refers to the government’s collection of fees or surcharges based upon an assessment of value.
 
-Members of the public are encouraged to suggest their own edits.
+2. Digital assets as digital property
 
-<b>GITHUB MODIFICATIONS AND COMMITS</b>
+    a. Virtual currencies and digital assets, for the purposes of state law and regulation, are considered personal digital property of an individual or entity and follow the rules of property set for in [State] [Property Code §§].
 
-This GitHub repository will serve as the living model for these model policies. 
+    b. No additional taxation, withholding, assessment, or charge on the value of digital assets shall occur if used as a method of payment.
 
-Edits, modifications, and additions are welcome by all. Doing so helps better crowdsource the most appropriate and beneficial rules on digital assets such as Bitcoin and its crypto-offspring, as well as any industries, projects, or protocols that may support them.
+3. Reciprocity of Money Transmitter Licenses
 
-Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by these model policies. However, this repository should serve as collection of templates for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.
+    a. For the purpose of standardizing the issuance of money transmitter licenses across state jurisdictions, virtual currency exchanges, brokers, and other cryptocurrency-related firms required to apply for money transmitter licenses to offer services, in accordance with state law, will have reciprocal privileges in this state:
 
-<b>MODEL POLICIES</b>
+      i. any virtual currency-related entity with an active money transmitter license from any state shall be permitted to offer its services in this state. Proof will be submitted to the relevant state regulatory agency, and accepted as a reciprocal license within 30 days.
 
--<i>Smart Cryptocurrency Rules Act</i>
---A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">The Smart Crypto Currency Rules Act</a>".
+4. Public utilities shall not discriminate or differentiate between cryptocurrency mining and other commercial uses of electricity
 
--<i>Reject CBDCs and Protect Financial Privacy Act</i>
-----A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">Reject CBDCs and Protect Financial Privacy Act</a>".
+    a. As states have regulatory authority over public utilities, public utility companies that offer electricity services shall not discriminate or otherwise introduce pricing classifications that would be perceived to penalize or additionally burden individuals or entities that use hardware and software to mine cryptocurrencies.
+
+5. Local preemption
+
+    a. This law preempts any municipal or county regulations and restrictions that concern digital assets, including taxation, mining, and additional transparency requirements.
