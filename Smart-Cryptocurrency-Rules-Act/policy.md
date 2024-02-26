@@ -1,6 +1,5 @@
 ---
-title: Model Policy
-aside: true
+Model Policy: Smart Cryptocurrency Rules Act
 ---
 <b>Summary:</b>
 
