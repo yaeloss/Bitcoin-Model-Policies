@@ -46,4 +46,4 @@ Considering the complex nature of digital assets and decentralized blockchain te
 \
 -<i>Reject CBDCs and Protect Financial Privacy Act</i>\
 \
-----A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">Reject CBDCs and Protect Financial Privacy Act</a>".\
+----A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">Reject CBDCs and Protect Financial Privacy Act</a>".
