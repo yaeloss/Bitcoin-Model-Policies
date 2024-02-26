@@ -1,4 +1,4 @@
-Reject CBDCs and Protect Financial Privacy Act
+<b>Reject CBDCs and Protect Financial Privacy Act</b>
 
 Summary
 This resolution opposes the adoption and development of a central bank digital currency (CBDC) and resolves that state agencies will not accept or require central bank digital currency payments.
