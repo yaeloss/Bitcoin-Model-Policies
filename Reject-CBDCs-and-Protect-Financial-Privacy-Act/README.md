@@ -1,9 +1,9 @@
 ---
-title: Reject CBDCs and Protect Financial Privacy Act
-aside: true
+Model Legislation: Reject CBDCs and Protect Financial Privacy Act
 ---
+<b>Summary:</b>
 
-Summary
+
 This resolution opposes the adoption and development of a central bank digital currency (CBDC) and resolves that state agencies will not accept or require central bank digital currency payments.
 
 (1) Definitions: For the purposes of this chapter, the words defined in this section have the meaning given.
