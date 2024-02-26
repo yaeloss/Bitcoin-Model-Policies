@@ -42,10 +42,12 @@ Considering the complex nature of digital assets and decentralized blockchain te
 \
 <i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Reject-CBDCs-and-Protect-Financial-Privacy-Act">Smart Cryptocurrency Rules Act</a></i>\
 \
---A version of this model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">July 29, 2022</a>.\
+--This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">July 29, 2022</a>.\
 \
 <i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Smart-Cryptocurrency-Rules-Act">Reject CBDCs and Protect Financial Privacy Act</a></i>\
 \
---A version of this model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/"> August 28, 2023</a>.
+--This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/"> August 28, 2023</a>.
 
---Parts of this model policy were passed by the Indiana State Senate in February 2024. Link: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>
+--This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as HB1676: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
+
+--This model policy was passed by the INDIANA STATE SENATE in February 2024 as SB180: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
