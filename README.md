@@ -40,10 +40,10 @@ Considering the complex nature of digital assets and decentralized blockchain te
 \
 <b>MODEL POLICIES</b>\
 \
-<i>Smart Cryptocurrency Rules Act</i>\
+<i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Reject-CBDCs-and-Protect-Financial-Privacy-Act">Smart Cryptocurrency Rules Act</a></i>\
 \
 --A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">The Smart Crypto Currency Rules Act</a>".\
 \
-<i>Reject CBDCs and Protect Financial Privacy Act</i>\
+<i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Smart-Cryptocurrency-Rules-Act">Reject CBDCs and Protect Financial Privacy Act</a></i>\
 \
 --A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">Reject CBDCs and Protect Financial Privacy Act</a>".
