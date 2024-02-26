@@ -3,7 +3,6 @@
             width:400px;
             height:200px;
             border: solid 1px #CCC"/>    
-Website: <a href="https://smartcryptopolicy.com">smartcryptopolicy.com</a>    
 	    
 <b>INTRODUCTION</b>
 
@@ -21,24 +20,28 @@ As a consumer advocacy group that champions innovative technology and smart poli
 
 We offer the <a href="https://consumerchoicecenter.org/principles-for-smart-crypto-regulation/">following bedrock principles</a> on smart crypto regulation for lawmakers, hoping to promote sound policies that will encourage innovation, increase economic inclusion across all income groups, all the while protecting consumers from harm.
 
-<b>MODEL POLICY</b>
+<b>PURPOSE</b>
 
-The purpose of the <i>"Smart Cryptocurrency Rules Act"</i> is to provide state and local legislators with a template of consumer-friendly policy on Bitcoin, cryptocurrencies, and decentralized finance.
+The purpose of this GitHub page is to provide state and local legislators with a template of consumer-friendly policies on Bitcoin, cryptocurrencies, and decentralized finance.
 
-As a model policy, it serves the purpose of providing general guidelines or goals to achieve in state legislation, and will therefore require various amendments, customizations, and accomodations with existing laws and regulations.
+As model policies, these serve the purpose of providing general guidelines or goals to achieve in state legislation, and will therefore require various amendments, customizations, and accomodations with existing laws and regulations.
 
-State lawmakers and their staff are encouraged to take parts, or the whole, of this model policy to help usher in consumer-friendly policies on cryptocurrencies and decentralized finance in their jurisdiction.
+State lawmakers and their staff are encouraged to take parts, or the whole, of these model policies to help usher in consumer-friendly policies on cryptocurrencies and decentralized finance in their jurisdiction.
 
 Members of the public are encouraged to suggest their own edits.
 
 <b>GITHUB MODIFICATIONS AND COMMITS</b>
 
-This GitHub repository will serve as the living model for the <i>Smart Cryptocurrency Rules Act</i>. 
+This GitHub repository will serve as the living model for these model policies. 
 
-Edits, modifications, and additions are welcome by all. Doing so helps better crowdsource the most appropriate and beneficial rules on digital assets such as Bitcoin and its crypto-offspring, as well as any industries, projects, or protocols which may support them.
+Edits, modifications, and additions are welcome by all. Doing so helps better crowdsource the most appropriate and beneficial rules on digital assets such as Bitcoin and its crypto-offspring, as well as any industries, projects, or protocols that may support them.
 
-Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by this model policy. However, this repository should serve as only a template for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.
+Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by these model policies. However, this repository should serve as collection of templates for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.
 
-<b>VERSIONS</b>
+<b>MODEL POLICIES</b>
 
-—A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">The Smart Crypto Currency Rules Act</a>".
+-<i>Smart Cryptocurrency Rules Act</i>
+--A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">The Smart Crypto Currency Rules Act</a>".
+
+-<i>Reject CBDCs and Protect Financial Privacy Act</i>
+----A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">Reject CBDCs and Protect Financial Privacy Act</a>".
