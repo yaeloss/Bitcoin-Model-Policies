@@ -4,13 +4,13 @@
             height:200px;
             border: solid 1px #CCC"/>    
 	    
-<b>INTRODUCTION</b>\
+<center><b>INTRODUCTION</b></center>\
 \
 The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life. \
 \
 We are a consumer advocacy group that champions smart policies that are fit for growth, promotes lifestyle choice, and embraces tech innovation for tens of thousands of our members and society-at-large, using research and educational outreach to policymakers and the broader public. \
 \
-<b>SMART CRYPTO RULES</b>\
+<center><b>SMART CRYPTO RULES</b></center>\
 \
 Since the arrival of Bitcoin in 2008, the world\'92s first decentralized cryptographical digital currency, the crypto domain has been catapulted from sets of obscure programming passion projects to a highly dynamic sector worth $1 trillion. Whether it is mining, exchanges, decentralized finance, blockchains, or rapid payments, there is no doubt that crypto represents a new paradigm of agency, action, and opportunity for entrepreneurs and consumers alike. The benefits to broader crypto adoption are numerous and have been outlined elsewhere.\
 \
