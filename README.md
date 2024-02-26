@@ -1,16 +1,9 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2759
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 <img src="https://consumerchoicecenter.org/wp-content/uploads/2022/06/1-CCC-LOGO-BEST-TRANSPARENT.png" \
-	 style="object-fit:scale-down;\
-            width:400px;\
-            height:200px;\
-            border: solid 1px #CCC"/>    \
-	    \
+<img src="https://consumerchoicecenter.org/wp-content/uploads/2022/06/1-CCC-LOGO-BEST-TRANSPARENT.png" 
+	 style="object-fit:scale-down;
+            width:400px;
+            height:200px;
+            border: solid 1px #CCC"/>    
+	    
 <b>INTRODUCTION</b>\
 \
 The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life. \
@@ -54,4 +47,3 @@ Considering the complex nature of digital assets and decentralized blockchain te
 -<i>Reject CBDCs and Protect Financial Privacy Act</i>\
 \
 ----A version of this model policy was adopted by the Commerce, Insurance and Economic Development and Communications and Technology Task Forces of the American Legislative Exchange Council on July 29, 2022, entitled "<a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">Reject CBDCs and Protect Financial Privacy Act</a>".\
-}
