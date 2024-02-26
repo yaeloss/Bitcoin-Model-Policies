@@ -1,8 +1,8 @@
-<img src="https://consumerchoicecenter.org/wp-content/uploads/2022/06/1-CCC-LOGO-BEST-TRANSPARENT.png" 
+<center><img src="https://consumerchoicecenter.org/wp-content/uploads/2022/06/1-CCC-LOGO-BEST-TRANSPARENT.png" 
 	 style="object-fit:scale-down;
             width:400px;
             height:200px;
-            border: solid 1px #CCC"/>    
+            border: solid 1px #CCC"/></center>    
 	    
 <b>INTRODUCTION</b>\
 \
