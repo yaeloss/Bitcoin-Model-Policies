@@ -4,7 +4,23 @@
             height:200px;
             border: solid 1px #CCC"/></center>    
 	    
-<b>INTRODUCTION</b>\
+<b>MODEL POLICIES</b>\
+\
+<i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Reject-CBDCs-and-Protect-Financial-Privacy-Act">Smart Cryptocurrency Rules Act</a></i>\
+\
+--This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">July 29, 2022</a>.\
+\
+<i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Smart-Cryptocurrency-Rules-Act">Reject CBDCs and Protect Financial Privacy Act</a></i>\
+\
+--This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/"> August 28, 2023</a>.
+
+--This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as HB1676: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
+
+--This model policy was passed by the INDIANA STATE SENATE in February 2024 as SB180: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
+
+**
+
+<b>ABOUT US</b>\
 \
 The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life. \
 \
@@ -38,16 +54,3 @@ Edits, modifications, and additions are welcome by all. Doing so helps better cr
 \
 Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by these model policies. However, this repository should serve as collection of templates for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.\
 \
-<b>MODEL POLICIES</b>\
-\
-<i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Reject-CBDCs-and-Protect-Financial-Privacy-Act">Smart Cryptocurrency Rules Act</a></i>\
-\
---This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/the-smart-cryptocurrency-rules-act/">July 29, 2022</a>.\
-\
-<i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Smart-Cryptocurrency-Rules-Act">Reject CBDCs and Protect Financial Privacy Act</a></i>\
-\
---This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/"> August 28, 2023</a>.
-
---This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as HB1676: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
-
---This model policy was passed by the INDIANA STATE SENATE in February 2024 as SB180: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
