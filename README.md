@@ -14,7 +14,7 @@
 \
 --This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/"> August 28, 2023</a>.
 
-––This model policy was signed into law in the state of SOUTH DAKOTA in February 2024 as HB1161: <a href="https://sdlegislature.gov/Session/Bill/24958">https://sdlegislature.gov/Session/Bill/24958</a>
+--This model policy was signed into law in the state of SOUTH DAKOTA in February 2024 as HB1161: <a href="https://sdlegislature.gov/Session/Bill/24958">https://sdlegislature.gov/Session/Bill/24958</a>
 
 --This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as HB1676: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
 
