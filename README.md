@@ -56,4 +56,6 @@ This GitHub repository will serve as the living model for these model policies. 
 \
 Edits, modifications, and additions are welcome by all. Doing so helps better crowdsource the most appropriate and beneficial rules on digital assets such as Bitcoin and its crypto-offspring, as well as any industries, projects, or protocols that may support them.\
 \
-Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by these model policies. However, this repository should serve as collection of templates for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.
+Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by these model policies. However, this repository should serve as collection of templates for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.\
+\
+Learn more about the Consumer Choice Center at <a href="https://consumerchoicecenter.org">consumerchoicecenter.org</a>.
