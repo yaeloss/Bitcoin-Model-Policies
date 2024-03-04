@@ -14,13 +14,13 @@
 \
 --This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">August 28, 2023</a>.
 
---This model policy was signed into law in the state of SOUTH DAKOTA in February 2024 as <a href="https://sdlegislature.gov/Session/Bill/24958">HB1161</a>.
+--This model policy was SIGNED into law in the state of SOUTH DAKOTA on February 27, 2024 as <a href="https://sdlegislature.gov/Session/Bill/24958">HB1161</a>.
 
---This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
+--This model policy was PASSED by both legislative chambers in INDIANA on February 28, 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>. It awaits signature by the governor.
 
---The model policy was introduced into the IOWA LEGISLATURE in February 2024 as <a href="https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R">HF2358</a>.
+--The model policy was INTRODUCED into the IOWA LEGISLATURE on February 7, 2024 as <a href="https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R">HF2358</a>.
 
---This model policy was passed by both legislative chambers in INDIANA in February 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>. It awaits signature by the governor.
+--This model policy was INTRODUCED into the MISSOURI STATE HOUSE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
 
 **
 
