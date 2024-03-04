@@ -22,6 +22,8 @@
 
 --This model policy was INTRODUCED into the MISSOURI STATE HOUSE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
 
+--This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a>.
+
 **
 
 <b>ABOUT US</b>\
