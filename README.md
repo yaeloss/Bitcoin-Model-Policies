@@ -32,7 +32,7 @@ We are a consumer advocacy group that champions smart policies that are fit for 
 \
 <b>SMART CRYPTO RULES</b>\
 \
-Since the arrival of Bitcoin in 2008, the world\'92s first decentralized cryptographical digital currency, the crypto domain has been catapulted from sets of obscure programming passion projects to a highly dynamic sector worth $1 trillion. Whether it is mining, exchanges, decentralized finance, blockchains, or rapid payments, there is no doubt that crypto represents a new paradigm of agency, action, and opportunity for entrepreneurs and consumers alike. The benefits to broader crypto adoption are numerous and have been outlined elsewhere.\
+Since the arrival of Bitcoin in 2008, the world's first decentralized cryptographical digital currency, the cryptocurrency domain has been catapulted from sets of obscure programming passion projects to a highly dynamic sector worth over $1 trillion. Whether it is mining, exchanges, decentralized finance, blockchains, or rapid payments, there is no doubt that crypto represents a new paradigm of agency, action, and opportunity for entrepreneurs and consumers alike. The benefits to broader crypto adoption to consumers and users are numerous and have been outlined elsewhere.\
 \
 However, with such incredible innovation in a short period of time has come investor speculation, attempts at fraud, wild price swings, and blocking of crypto purchases by financial institutions. In response, regulators, recognizing the crypto paradigm shift, have begun actively drafting legislation and filing lawsuits against crypto projects to control and severely limit their activities and products.\
 \
