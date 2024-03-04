@@ -16,7 +16,7 @@
 
 --This model policy was SIGNED into law in the state of SOUTH DAKOTA on February 27, 2024 as <a href="https://sdlegislature.gov/Session/Bill/24958">HB1161</a>.
 
---This model policy was PASSED by both legislative chambers in INDIANA on February 28, 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>. It awaits signature by the governor.
+--This model policy was PASSED by both legislative chambers in INDIANA on February 28, 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>. It awaits the governor's signature.
 
 --The model policy was INTRODUCED into the IOWA LEGISLATURE on February 7, 2024 as <a href="https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R">HF2358</a>.
 
