@@ -18,7 +18,7 @@
 
 --This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as HB1676: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
 
---This model policy was passed by the INDIANA STATE SENATE in February 2024 as SB180: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
+--This model policy was passed by the INDIANA STATE SENATE and the INDIANA STATE HOUSE OF REPRESENTATIVES in February 2024 as SB180. It awaits signature by the governor: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
 
 **
 
