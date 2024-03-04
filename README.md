@@ -12,15 +12,15 @@
 \
 <i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Reject-CBDCs-and-Protect-Financial-Privacy-Act">Reject CBDCs and Protect Financial Privacy Act</a></i>\
 \
---This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/"> August 28, 2023</a>.
+--This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">August 28, 2023</a>.
 
---This model policy was signed into law in the state of SOUTH DAKOTA in February 2024 as HB1161: <a href="https://sdlegislature.gov/Session/Bill/24958">https://sdlegislature.gov/Session/Bill/24958</a>
+--This model policy was signed into law in the state of SOUTH DAKOTA in February 2024 as <a href="https://sdlegislature.gov/Session/Bill/24958">HB1161</a>
 
---This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as HB1676: <a href="https://legiscan.com/MO/bill/HB1676/2024">https://legiscan.com/MO/bill/HB1676/2024)</a>.
+--This model policy was introduced into the MISSOURI STATE HOUSE in February 2024 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
 
---The model policy was introduced into the IOWA legislature in February 2024 as HF2358: <a href="https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R">https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R</a>
+--The model policy was introduced into the IOWA legislature in February 2024 as <a href="https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R">HF2358</a>
 
---This model policy was passed by the INDIANA STATE SENATE and the INDIANA STATE HOUSE OF REPRESENTATIVES in February 2024 as SB180. It awaits signature by the governor: <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">https://iga.in.gov/legislative/2024/bills/senate/180/details</a>.
+--This model policy was passed by the INDIANA STATE SENATE and the INDIANA STATE HOUSE OF REPRESENTATIVES in February 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>. It awaits signature by the governor.
 
 **
 
