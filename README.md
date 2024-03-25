@@ -18,9 +18,9 @@
 
 --This model policy was SIGNED into law in the state of INDIANA on March 11, 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>.
 
---The model policy was INTRODUCED into the IOWA LEGISLATURE on February 7, 2024 as <a href="https://house.mo.gov/Bill.aspx?bill=HB1676&year=2024&code=R">HF2358</a>.
+--The model policy was INTRODUCED into the IOWA LEGISLATURE on February 7, 2024 as <a href="https://legiscan.com/IA/bill/HF2358/2023">HF2358</a>.
 
---This model policy was INTRODUCED into the MISSOURI STATE HOUSE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
+--This model policy was PASSED by the MISSOURI STATE HOUSE on March 5, 2024 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
 
 --This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a>.
 
