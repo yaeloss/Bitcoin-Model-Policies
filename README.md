@@ -24,6 +24,8 @@
 
 --This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a>.
 
+--This model policy was PASSED by the LOUSIANA STATE HOUSE on April 3, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
+
 **
 
 <b>ABOUT US</b>\
