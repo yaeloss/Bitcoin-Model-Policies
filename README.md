@@ -24,7 +24,9 @@
 
 --This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a>.
 
---This model policy was PASSED by the LOUSIANA STATE HOUSE on April 3, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
+--This model policy was SIGNED into law in the state of LOUSIANA STATE HOUSE on June 19, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
+
+--This model policy was PASSED by the NORTH CAROLINA GENERAL ASSEMBLY on June 25, 2024 as <a href="https://www.ncleg.gov/BillLookup/2023/H690">H690</a>.
 
 **
 
