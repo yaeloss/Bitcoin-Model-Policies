@@ -26,7 +26,7 @@
 
 --This model policy was SIGNED into law in the state of LOUSIANA STATE HOUSE on June 19, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
 
---This model policy was PASSED by the NORTH CAROLINA GENERAL ASSEMBLY on June 25, 2024 as <a href="https://www.ncleg.gov/BillLookup/2023/H690">H690</a>.
+--This model policy was SIGNED into law by the NORTH CAROLINA GENERAL ASSEMBLY overriding a gubernatorial veto on September 9, 2024 as <a href="https://www.ncleg.gov/BillLookup/2023/H690">H690</a>.
 
 **
 
