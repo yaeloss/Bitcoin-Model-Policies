@@ -1,8 +1,6 @@
-<center><img src="https://consumerchoicecenter.org/wp-content/uploads/2022/06/1-CCC-LOGO-BEST-TRANSPARENT.png" 
-	 style="object-fit:scale-down;
-            width:400px;
-            height:200px;
-            border: solid 1px #CCC"/></center>    
+Through my work as a consumer advocate, both as the deputy director of the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> and a Fellow at the <a href="https://www.btcpolicy.org/">Bitcoin Policy Institute</a>, I've contributed to various model policies that can be enacted at a state-level in the United States to help advance Bitcoin.
+
+Working with state lawmakers, policy organizations, and fellow passionate bitcoiners, these are some of the model policies we offer open-source to anyone who would like to pass something similar in their state.
 	    
 <b>MODEL POLICIES</b>\
 \
@@ -24,7 +22,7 @@
 
 --This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a>.
 
---This model policy was SIGNED into law in the state of LOUSIANA STATE HOUSE on June 19, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
+--This model policy was SIGNED into law in the state of LOUISIANA STATE HOUSE on June 19, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
 
 --This model policy was SIGNED into law by the NORTH CAROLINA GENERAL ASSEMBLY overriding a gubernatorial veto on September 9, 2024 as <a href="https://www.ncleg.gov/BillLookup/2023/H690">H690</a>.
 
