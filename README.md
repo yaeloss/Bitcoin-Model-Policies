@@ -1,4 +1,4 @@
-Through my <a href="https://yael.at">work</a> as a consumer advocate, both as the Deputy Director of the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> and a Fellow at the <a href="https://www.btcpolicy.org/">Bitcoin Policy Institute</a>, I've contributed to various model policies that can be enacted at a state-level in the United States to help advance Bitcoin.
+Through my <a href="https://yael.at">work</a> as a consumer advocate, both as the Deputy Director of the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> and a Fellow at the <a href="https://www.btcpolicy.org/">Bitcoin Policy Institute</a>, I've contributed to various model policies that can be enacted at a state-level in the United States to help advance Bitcoin and its crypto-offspring.
 
 Working with state lawmakers, policy organizations, and fellow passionate bitcoiners, these are some of the model policies we offer open-source to anyone who would like to pass something similar in their state.
 	    
