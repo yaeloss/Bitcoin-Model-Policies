@@ -34,15 +34,11 @@ The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an 
 \
 We are a consumer advocacy group that champions smart policies that are fit for growth, promotes lifestyle choice, and embraces tech innovation for tens of thousands of our members and society-at-large, using research and educational outreach to policymakers and the broader public. \
 \
-<b>SMART CRYPTO RULES</b>\
+<b>SMART BITCOIN AND CRYPTO RULES</b>\
 \
 Since the arrival of Bitcoin in 2008, the world's first decentralized cryptographical digital currency, the cryptocurrency domain has been catapulted from sets of obscure programming passion projects to a highly dynamic sector worth over $1 trillion. Whether it is mining, exchanges, decentralized finance, blockchains, or rapid payments, there is no doubt that crypto represents a new paradigm of agency, action, and opportunity for entrepreneurs and consumers alike. The benefits to broader crypto adoption to consumers and users are numerous and have been outlined elsewhere.\
 \
 However, with such incredible innovation in a short period of time has come investor speculation, attempts at fraud, wild price swings, and blocking of crypto purchases by financial institutions. In response, regulators, recognizing the crypto paradigm shift, have begun actively drafting legislation and filing lawsuits against crypto projects to control and severely limit their activities and products.\
-\
-As a consumer advocacy group that champions innovative technology and smart policies, the <b>Consumer Choice Center</b> recognizes the importance of crypto regulation for keeping bad actors in check and providing a sound institutional framework. We also recognize that the nascent crypto finance space is ever-changing and rapidly evolving, and that overzealous regulation could cripple future potential.\
-\
-We offer the <a href="https://consumerchoicecenter.org/principles-for-smart-crypto-regulation/">following bedrock principles</a> on smart crypto regulation for lawmakers, hoping to promote sound policies that will encourage innovation, increase economic inclusion across all income groups, all the while protecting consumers from harm.\
 \
 <b>PURPOSE</b>\
 \
@@ -62,4 +58,4 @@ Edits, modifications, and additions are welcome by all. Doing so helps better cr
 \
 Considering the complex nature of digital assets and decentralized blockchain technology, there are inevitably concerns that are not addressed by these model policies. However, this repository should serve as collection of templates for future action and language, while remaining loyal to the consumer-friendly principles of open and decentralized blockchains and related industries.\
 \
-Learn more about the Consumer Choice Center at <a href="https://consumerchoicecenter.org">consumerchoicecenter.org</a>.
+Cross-referenced and mantained on my website <a href="https://yael.ca/bitcoin-model-policies/">yael.ca</a>.
