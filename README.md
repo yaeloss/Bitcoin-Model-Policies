@@ -10,21 +10,25 @@ Working with state lawmakers, policy organizations, and fellow passionate bitcoi
 \
 <i><a href="https://github.com/yaeloss/Bitcoin-Model-Policies/tree/main/Reject-CBDCs-and-Protect-Financial-Privacy-Act">Reject CBDCs and Protect Financial Privacy Act</a></i>\
 \
---This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">August 28, 2023</a>.
-
---This model policy was SIGNED into law in the state of SOUTH DAKOTA on February 27, 2024 as <a href="https://sdlegislature.gov/Session/Bill/24958">HB1161</a>.
-
---This model policy was SIGNED into law in the state of INDIANA on March 11, 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a>.
-
---The model policy was INTRODUCED into the IOWA LEGISLATURE on February 7, 2024 as <a href="https://legiscan.com/IA/bill/HF2358/2023">HF2358</a>.
-
---This model policy was PASSED by the MISSOURI STATE HOUSE on March 5, 2024 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a>.
-
---This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a>.
-
---This model policy was SIGNED into law in the state of LOUISIANA STATE HOUSE on June 19, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a>.
-
---This model policy was SIGNED into law by the NORTH CAROLINA GENERAL ASSEMBLY overriding a gubernatorial veto on September 9, 2024 as <a href="https://www.ncleg.gov/BillLookup/2023/H690">H690</a>.
+--This model policy was adopted by the American Legislative Exchange Council on <a href="https://alec.org/model-policy/reject-cbdcs-and-protect-financial-privacy-act/">August 28, 2023</a></i>\
+\
+--This model policy was SIGNED into law in the state of SOUTH DAKOTA on February 27, 2024 as <a href="https://sdlegislature.gov/Session/Bill/24958">HB1161</a></i>\
+\
+--This model policy was SIGNED into law in the state of INDIANA on March 11, 2024 as <a href="https://iga.in.gov/legislative/2024/bills/senate/180/details">SB180</a></i>\
+\
+--This model policy was SIGNED into law by the state of UTAH on March 13, 2024 as <a href="https://le.utah.gov/~2024/bills/static/HB0164.html">HB164</a></i>\
+\
+--This model policy was SIGNED into law in the state of LOUISIANA on June 19, 2024 as <a href="https://www.legis.la.gov/legis/BillInfo.aspx?i=246246">HB488</a></i>\
+\
+--This model policy was SIGNED into law by the state of GEORGIA on July 1, 2024 as <a href="https://legiscan.com/GA/bill/HB1053/2023">HB1053</a></i>\
+\
+--This model policy was SIGNED into law by the state of NORTH CAROLINA by overriding a gubernatorial veto on September 9, 2024 as <a href="https://www.ncleg.gov/BillLookup/2023/H690">H690</a></i>\
+\
+--This model policy was PASSED by the MISSOURI STATE HOUSE on March 5, 2024 as <a href="https://legiscan.com/MO/bill/HB1676/2024">HB1676</a></i>\
+\
+--This model policy was INTRODUCED into the MISSOURI STATE SENATE on December 1, 2023 as <a href="https://legiscan.com/MO/bill/SB826/2024">SB826</a></i>\
+\
+--The model policy was INTRODUCED into the IOWA LEGISLATURE on February 7, 2024 as <a href="https://legiscan.com/IA/bill/HF2358/2023">HF2358</a>.
 
 **
 
